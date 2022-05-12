@@ -81,9 +81,9 @@
 }
 
 
-.Who-is-he-container .mochi{
-    display: none;
-}
+/* .Who-is-he-container .mochi{
+    display: block;
+} */
 
 .space-div {
     height: 165px;
@@ -1220,16 +1220,16 @@ width: auto;
         width: 510px;
     }
     
-    .Who-is-he-container .who-is-he{
+    /* .Who-is-he-container .who-is-he{
         /* width: 300px;
         height: 120px; */
         display: none;
-    }
+    } */
 
-    .Who-is-he-container .mochi{
+    /* .Who-is-he-container .mochi{
         display:inline-block;
         padding: auto;
-    }
+    } */
 
     .navbar a{
         font-size: 15px;
