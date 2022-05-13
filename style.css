@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     font-family: 'Courgette', cursive;
-   
+
 }
 
 .navbar-container {
     height: 80px;
-   
+
 }
 
 .navbar a {
@@ -439,7 +439,8 @@
     }
 
     .right span,
-    .hobby-right span, .left-part span {
+    .hobby-right span,
+    .left-part span {
         font-size: 15px;
 
     }
@@ -449,7 +450,7 @@
     .hobby-part {
         height: 440px;
         width: 350px;
-     
+
     }
 
     .hobby-left img,
@@ -459,10 +460,10 @@
         height: 54px;
     }
 
-.space-div img{
-height: auto;
-width: auto;
-}
+    .space-div img {
+        height: auto;
+        width: auto;
+    }
 
 }
 
@@ -1158,7 +1159,7 @@ width: auto;
     .right,
     .hobby-right,
     .left-part {
-        
+
         position: relative;
         left: 90px;
 
@@ -1166,32 +1167,34 @@ width: auto;
 
     .hobby-left img,
     .left img {
-       border-top-right-radius: 0px;
+        border-top-right-radius: 0px;
     }
 
-    .pic-right img{
+    .pic-right img {
         border-top-left-radius: 0px;
 
     }
+
     .right span,
     .hobby-right span,
     .left-part span {
         width: 280px;
         height: 150px;
     }
-.navbar{
-    padding: 15px 13px;
+
+    .navbar {
+        padding: 15px 13px;
         gap: 19px;
-}
+    }
 
-.navbar a{
-    font-size: 20px;
-}
+    .navbar a {
+        font-size: 20px;
+    }
 
-.space-div img {
-    height: 450px;
-    width: 600px;
-}
+    .space-div img {
+        height: 450px;
+        width: 600px;
+    }
 
 
 }
@@ -1203,8 +1206,8 @@ width: auto;
         height: 420px;
         width: 530px;
     }
-    
-    .Who-is-he-container img{
+
+    .Who-is-he-container img {
         width: 300px;
         height: 120px;
     }
@@ -1219,22 +1222,22 @@ width: auto;
         height: 410px;
         width: 510px;
     }
-    
+
     /* .Who-is-he-container .who-is-he{
         /* width: 300px;
-        height: 120px; */
+        height: 120px; 
         display: none;
-    } */
+    
 
-    /* .Who-is-he-container .mochi{
+    .Who-is-he-container .mochi{
         display:inline-block;
         padding: auto;
-    } */
+    }   */
 
-    .navbar a{
+    .navbar a {
         font-size: 15px;
     }
-    
+
 }
 
 /* -------------------21th media quary-------------------- */
@@ -1252,7 +1255,9 @@ width: auto;
         width: 410px;
     }
 
-    .right, .hobby-right, .left-part {
+    .right,
+    .hobby-right,
+    .left-part {
         position: relative;
         left: 40px;
     }
@@ -1260,12 +1265,14 @@ width: auto;
     .right,
     .hobby-right,
     .left-part {
-        
+
         position: relative;
         left: 50px;
     }
 
-    .right span, .hobby-right span, .left-part span {
+    .right span,
+    .hobby-right span,
+    .left-part span {
         font-size: 18px;
     }
 
@@ -1300,7 +1307,9 @@ width: auto;
         width: 420px;
     }
 
-    .right, .hobby-right, .left-part {
+    .right,
+    .hobby-right,
+    .left-part {
         position: relative;
         left: 40px;
     }
@@ -1319,14 +1328,14 @@ width: auto;
         width: 350px;
     }
 
-.bio-pic {
-    margin-top: 360px;
-}
+    .bio-pic {
+        margin-top: 360px;
+    }
 
-.space-div img {
-    height: 300px;
-    width: 400px;
-}
+    .space-div img {
+        height: 300px;
+        width: 400px;
+    }
 
 
 }
