@@ -370,14 +370,21 @@
 }
 
 
+.made-with h4{
+    margin-top: 20px;
+    margin-left: 100px;
+    /* margin-right: 50px; */
+   color: rgb(68, 155, 241);
+   font-size: 15px;
+   transition: all 0.5s ease;
+}
 
 
 
-
-
-
-
-
+.made-with h4:hover {
+    transform: scale(1.2);
+    color: rgb(100, 171, 243);
+}
 
 
 
